@@ -8,3 +8,4 @@ Hosted with love. https://gist.github.com/oliveratgithub/7192c585ce6850692199036
 
 mobile screenshot
 
+![](https://raw.githubusercontent.com/AmyMorand/portfolio/master/images/Mom.jpg)
